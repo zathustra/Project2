@@ -18,6 +18,8 @@
 
 For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of the New York Times's "The Upshot."
 
+For these exercises, you are conducting basic exploratory data analysis (Pandas not required) to understand the basics of Chipotle's order data: how many orders are being made, what is the average price per order, how many different ingredients, etc. These allow you to conduct business analyst skills while becoming comfortable with Python.
+
 The notebook included with this file is `chipotle.ipynb`.
 
 ---
