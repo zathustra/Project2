@@ -8,17 +8,17 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Requirements | Project Description | [Here]() |
-| Solution Code | Sample solutions for project questions | [Here](./Solution-Code/Project-1-CC-Solutions.ipynb) |
-| Dataset | Chipotle Dataset | [Here]() |
+| Requirements | Project Description | [Here](./chipotle.ipynb) |
+| Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
+| Dataset | Chipotle Dataset | [Here](./Data/chipotle.tsv) |
 
 ---
 
 ## Project Objective
 
-For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of the New York Times's The Upshot.
+For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of the New York Times's "The Upshot."
 
-The notebook included with this file is `chipotle_homework.ipynb`.
+The notebook included with this file is `chipotle.ipynb`.
 
 ---
 
@@ -28,7 +28,7 @@ The notebook included with this file is `chipotle_homework.ipynb`.
 
 ## Rubric
 
-For all projects, requirements should be evaluated on a simple point scale of 0, 1, or 2. 
+For all projects, requirements will be evaluated on a simple point scale of 0, 1, or 2. 
 
 Score | Expectations
 :--- | :---
@@ -36,14 +36,6 @@ Score | Expectations
 **1** | _Does not meet expectations._
 **2** | _Meets expectations, good job!_
 
+Additionally, instructors will provide feedback on required portions of your project.
+
 ---
-
-## How We Grade Projects
-
-Instructors should use the following guidelines to provide project feedback:
-
-1. Make a copy of the project requirements.
-2. Use our rubric to assign students a point value for all required items.
-3. Provide at least one comment for each requirement.
-
-> We recommend using a "glow/grow" template, providing one item of praise and one suggestion for improvement for each requirement.
