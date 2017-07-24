@@ -12,6 +12,8 @@
 | Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
 | Dataset | Chipotle Dataset | [Here](./Data/chipotle.tsv) |
 
+> Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
+
 ---
 
 ## Project Objective
