@@ -35,9 +35,14 @@ In a Jupyter Notebook, create working solutions for all of the questions above.
 
 Your notebook should include:
 
-1.
-2.
-3.
+1. Text for each question, copy and pasted from this file (preferably in markdown).
+2. A working solution to each problem.
+   - Do not include test, practice, or broken code (*unless you were unable to create a working solution*).
+3. Comments for all of your code.
+   - In your comments, describe any assumptions you made in order to solve these problems.
+
+4. **Bonus**: In programming (and life), there may be multiple ways to solve a problem. After completing our challenges, go back and see if you can think of any other valid methods!
+
 
 ---
 
