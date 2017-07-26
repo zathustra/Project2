@@ -14,11 +14,13 @@
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
+The Chipotle data set is from The New York Times's "The Upshot" column. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze the same dataset analyzed by a data scientist at The New York Times. (see https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html)
+
 ---
 
 ## Project Objective
 
-For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of the New York Times's "The Upshot."
+For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of The New York Times's "The Upshot."
 
 For these exercises, you will be conducting basic exploratory data analysis on Chipotle's order data, looking to answer such questions as: 
   - How many orders are being made?
