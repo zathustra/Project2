@@ -14,7 +14,7 @@
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
-The Chipotle data set is from The New York Times's "The Upshot" column. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze the same dataset analyzed by a data scientist at The New York Times. (see https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html)
+The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
 
 ---
 
